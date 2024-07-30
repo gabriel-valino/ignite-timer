@@ -1,5 +1,3 @@
-export interface HomeProps {}
-
-export function Home(props: HomeProps) {
+export function Home() {
   return <h1>Home</h1>
 }

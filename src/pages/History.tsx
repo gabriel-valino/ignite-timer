@@ -1,5 +1,3 @@
-export interface HistoryProps {}
-
-export function History(props: HistoryProps) {
+export function History() {
   return <h1>History</h1>
 }
